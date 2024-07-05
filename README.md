@@ -10,7 +10,6 @@ I'm currently studying Software Engineering in Tampere University. I enjoy worki
 - **Languages:** C++, Python, Java, SQL
 - **Frameworks & Libraries:** MQTT, Qt
 - **Tools & Platforms:** Git, Visual Studio, Qt Creator
-- **Other:** Home automation, Software Designing
 
 ## Projects
 
