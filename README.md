@@ -3,14 +3,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/mikkokiviniemi?style=flat&colorA=225fb2&colorB=225fb2&label=Follow)](https://github.com/mikkokiviniemi)
 [![GitHub stars](https://img.shields.io/github/stars/mikkokiviniemi?style=flat&colorA=225fb2&colorB=225fb2)](https://github.com/mikkokiviniemi)
 
-I'm currently studying Software Engineering in Tampere University. I enjoy working on modern C++ and Python, and I'm always eager to learn and grow in my field.
-
-## Skills
-
-- **Languages:** C++, Python, Java, SQL
-- **Frameworks & Libraries:** MQTT, Qt
-- **Tools & Platforms:** Git, Visual Studio, Qt Creator
-
 ## Projects
 
 ### Control software ⚙️🖥️🔧
